@@ -1,0 +1,11 @@
+<!-- Users.xml -->
+<root>
+    <Users>
+        <row>
+            <UserID>1</UserID>
+            <Username>user1</Username>
+            <Password>password1</Password>
+        </row>
+        <!-- Add data for other users -->
+    </Users>
+</root>

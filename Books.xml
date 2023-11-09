@@ -1,0 +1,13 @@
+<!-- Books.xml -->
+<root>
+    <Books>
+        <row>
+            <BookID>1</BookID>
+            <Title>Book Title 1</Title>
+            <Author>Author 1</Author>
+            <Price>25.99</Price>
+            <Quantity>50</Quantity>
+        </row>
+        <!-- Add data for other books -->
+    </Books>
+</root>

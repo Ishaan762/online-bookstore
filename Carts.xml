@@ -1,0 +1,12 @@
+<!-- Carts.xml -->
+<root>
+    <Carts>
+        <row>
+            <CartID>1</CartID>
+            <UserID>1</UserID>
+            <BookID>1</BookID>
+            <Quantity>2</Quantity>
+        </row>
+        <!-- Add data for other cart entries -->
+    </Carts>
+</root>
