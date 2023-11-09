@@ -1,0 +1,11 @@
+<root>
+    <Books>
+        <row>
+            <BookID>1</BookID>
+            <Title>Mystery</Title>
+            <Author>Stan Lee</Author>
+            <Price>29.99</Price>
+            <Quantity>15</Quantity>
+        </row>
+    </Books>
+</root>
